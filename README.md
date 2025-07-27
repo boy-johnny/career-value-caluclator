@@ -2,9 +2,9 @@
 
 <img src="title.png" alt="Job Worth Calculator" width="500" />
 <br><br>
-
+<!-- Product Rating -->
 <a href="https://trendshift.io/repositories/13145" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13145" alt="Zippland%2Fworth-calculator | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
+<!-- Badge Image -->
 <p>
    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -18,6 +18,7 @@
 
 </div>
 
+<!-- Language -->
 <p>
    <a href="#english"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" alt="English" /></a>
    &nbsp;&nbsp;
@@ -61,6 +62,7 @@
 ### 📊 The Calculation
 
 The job worth score is calculated using a comprehensive formula that accounts for:
+
 - Standardized daily salary (adjusted for PPP)
 - Work-life balance factors (hours, commute, WFH options)
 - Environmental aspects (office location, team dynamics)
@@ -87,47 +89,48 @@ Please make sure to test your changes before submitting a PR.
 
 <div id="中文">
 
-<h2 align="center">📊 工作性价比计算器</h2>
+<h2 align="center">📊 工作性價比計算器</h2>
 
-<p align="center"><i>全面考量，计算薪资之外的工作真实价值</i></p>
+<p align="center"><i>全面考量，計算薪資之外的工作真實價值</i></p>
 
-### ✨ 特点
+### ✨ 特點
 
-- **💰 全面评估**: 基于薪资、工作时间、通勤时间、工作环境等多方面因素计算工作价值
-- **🌏 PPP转换**: 通过购买力平价(PPP)转换支持190多个国家的薪资比较
-- **👩‍🎓 个人因素**: 根据个人学历、工作经验等定制计算
-- **📱 详细报告**: 生成可分享、可下载的工作分析报告
-- **🌐 国际化**: 支持中英文双语
-- **📱 移动友好**: 响应式设计，适用于所有设备
+- **💰 全面評估**：根據薪資、工作時間、通勤時間、工作環境等多方面因素計算工作價值
+- **🌏 PPP 轉換**：透過購買力平價（PPP）轉換，支援 190 多個國家的薪資比較
+- **👩‍🎓 個人因素**：可依個人學歷、工作經驗等自訂計算
+- **📱 詳細報告**：生成可分享、可下載的工作分析報告
+- **🌐 國際化**：支援中英文雙語
+- **📱 行動友善**：響應式設計，適用於所有裝置
 
 ### 🖥️ 使用方法
 
-1. 输入年薪
-2. 选择工作国家/地区
-3. 填写工作细节（每周工作天数、工作时长、通勤时间等）
-4. 指定环境因素（城市、工作环境、团队等）
-5. 输入学历和工作经验
-6. 查看工作性价比分数和详细评估
-7. 生成可分享的报告
+1. 輸入年薪
+2. 選擇工作國家／地區
+3. 填寫工作細節（每週工作天數、工作時數、通勤時間等）
+4. 指定環境因素（城市、工作環境、團隊等）
+5. 輸入學歷和工作經驗
+6. 查看工作性價比分數和詳細評估
+7. 生成可分享的報告
 
-### 📊 计算方法
+### 📊 計算方法
 
-工作性价比分数使用全面的公式计算，考虑了：
-- 标准化日薪（经PPP调整）
-- 工作生活平衡因素（工作时长、通勤、远程工作选项）
-- 环境因素（办公地点、团队关系）
-- 学历加成
-- 基于经验的期望值调整
+工作性價比分數採用全面的公式計算，考慮：
 
-### 👨‍💻 贡献指南
+- 標準化日薪（經 PPP 調整）
+- 工作與生活平衡因素（工作時數、通勤、遠端工作選項）
+- 環境因素（辦公地點、團隊關係）
+- 學歷加成
+- 根據經驗調整的期望值
 
-欢迎参与贡献！以下是您可以提供帮助的方式：
+### 👨‍💻 貢獻指南
 
-- 如有建议或发现错误，请[提交问题](https://github.com/zippland/worth-calculator/issues/new)
-- 分叉仓库并提交PR，增加新功能或修复bug
-- 改进文档或翻译
+歡迎參與貢獻！您可以透過以下方式協助：
 
-请确保在提交PR前测试您的更改。
+- 如有建議或發現錯誤，請[提交問題](https://github.com/zippland/worth-calculator/issues/new)
+- 分叉倉庫並提交 PR，新增功能或修復 bug
+- 改進文件或翻譯
+
+請務必在提交 PR 前測試您的更改。
 
 ### 📝 许可证
 
@@ -146,7 +149,7 @@ Please make sure to test your changes before submitting a PR.
 ### ✨ 特徴
 
 - **💰 総合的な評価**: 給与、労働時間、通勤時間、職場環境など複数の要素に基づいて仕事の価値を計算
-- **🌏 PPP変換**: 購買力平価(PPP)による190カ国以上の国際的な給与比較
+- **🌏 PPP 変換**: 購買力平価(PPP)による 190 カ国以上の国際的な給与比較
 - **👩‍🎓 個人要素**: 学歴、職務経験などに基づいてカスタマイズされた計算
 - **📱 詳細レポート**: 共有可能でダウンロード可能な仕事分析レポートの生成
 - **🌐 多言語対応**: 英語、中国語、日本語で利用可能
@@ -165,7 +168,8 @@ Please make sure to test your changes before submitting a PR.
 ### 📊 計算方法
 
 仕事の価値スコアは以下を考慮した総合的な計算式を使用しています：
-- 標準化された日給（PPPで調整済み）
+
+- 標準化された日給（PPP で調整済み）
 - ワークライフバランス要素（労働時間、通勤、リモートワークオプション）
 - 環境的側面（オフィスの場所、チームダイナミクス）
 - 教育資格による優遇
@@ -176,13 +180,13 @@ Please make sure to test your changes before submitting a PR.
 貢献は大歓迎です！以下の方法でご協力いただけます：
 
 - 提案やバグを発見した場合は[問題を報告](https://github.com/zippland/worth-calculator/issues/new)してください
-- リポジトリをフォークし、新機能やバグ修正のためのPRを提出
+- リポジトリをフォークし、新機能やバグ修正のための PR を提出
 - ドキュメントや翻訳の改善
 
-PRを提出する前に変更をテストしてください。
+PR を提出する前に変更をテストしてください。
 
 ### 📝 ライセンス
 
-[MITライセンス](LICENSE)
+[MIT ライセンス](LICENSE)
 
 </div>

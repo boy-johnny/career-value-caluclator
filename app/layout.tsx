@@ -26,7 +26,7 @@ export const metadata: Metadata = {
       "zh-CN": "/",
     },
   },
-  description: "这b班上得值不值 - 计算你的工作性价比 | Job Worth Calculator - Calculate your job's value",
+  description: "这班上得值不值 - 计算你的工作性價比 | Job Worth Calculator - Calculate your job's value",
   verification: {
     google: "_OQGiIpYz87USAsgJV2C07-JJhQ8myV_4GoM1kDjFic",
   },
